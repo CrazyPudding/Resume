@@ -1,6 +1,6 @@
 # My Resume
 
-[crazypudding.resume/](http://crazypudding.com/Resume/)
+[crazypudding.resume](http://crazypudding.com/Resume/)
 
 ## Introduction
 
